@@ -2,8 +2,11 @@
 name = "nazar"
 version = "0.1.0"
 edition = "2021"
-description = "A port scanner that shows it recepits"
+description = "A port scanner that shows its receipts"
 license = "MIT"
+repository = "https://github.com/volkansync/rust-portscanner"
+keywords = ["security", "network", "scanner", "portscan"]
+categories = ["command-line-utilities", "network-programming"]
 
 [[bin]]
 name = "nazar"
